@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ni511
+- 👋 Hi, I’m Nikhil Kuamr
 - 👀 I’m interested in coding in c++
 - 🌱 I’m currently learning c++ lang.
 - 💞️ I’m looking to collaborate on coding
